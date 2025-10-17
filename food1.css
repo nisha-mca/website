@@ -1,0 +1,24 @@
+.hero {
+   background: url("food9_icon.jfif") center/cover no-repeat;
+      color: blue;
+      padding: 100px 0;
+      text-align: center;
+    }
+     .category-card img {
+      height: 200px;
+      width:300px;
+      object-fit: cover;
+    }
+
+     .shop-card img {
+      height: 100px;
+      width:100px;
+      object-fit: cover;
+    }
+    .apple{
+      background:url(apple_icon.jfif)no-repeat;
+      background-size:cover;
+      height: 80vh;
+      width:100%;
+
+    }
